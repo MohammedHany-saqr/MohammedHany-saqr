@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  Hi, I'm mohammed hany - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Hi, I'm mohammed hany - SoftWare Engineer <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
@@ -16,9 +16,8 @@
 <br>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
-- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
+- 📓 I'm a student of Cairo University.
+- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
@@ -28,9 +27,7 @@
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 	      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
