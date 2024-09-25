@@ -27,17 +27,10 @@
   <b>Languages</b>
   <br>
   <br>
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-	      <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/cpp.svg" alt="C" height="40"/></code>
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/python.svg" alt="Golang" height="40"/></code>
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
-  </a>
 </p>
 
 <br>
@@ -47,28 +40,13 @@
   <b>Frontend</b>
   <br>
   <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
   <br>
-  <a href="https://reactjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
 </p>
 
 <br>
@@ -78,57 +56,16 @@
   <b>Backend</b>
   <br>
   <br>
-  <a href="https://nodejs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
-  </a>
   <br>
-  <a href="https://expressjs.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
 </p>
 
 <br>
 <br>
 
-<p align="center">
-  <b>System & DevOps</b>
-  <br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
-</p>
-
 <br>
 <br>
-
-<p align="center">
-  <b>Other</b>
-  <br>
-  <br>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
-</p>
 
 <!-- My Activity -->
 <h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
@@ -204,23 +141,11 @@ NetBeans                 1 hr 6 mins         █░░░░░░░░░░�
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  <a href="https://www.linkedin.com/in/mohamed-saqr-b74a06304/" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linkedin.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
 
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  <br>
-  <em>Lil Huy</em>
-</p>
-
----
-
-Credits: [oHTGo](https://github.com/oHTGo)
-
-Last Edited on: 26/02/2022
