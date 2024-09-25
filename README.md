@@ -27,8 +27,8 @@
   <b>Languages</b>
   <br>
   <br>
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/cpp.svg" alt="C" height="40"/></code>
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/python.svg" alt="Golang" height="40"/></code>
+    <code><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="C++" height="40"/></code>
+    <code><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" alt="Golang" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
 </p>
