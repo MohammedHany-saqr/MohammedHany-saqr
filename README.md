@@ -32,7 +32,6 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
