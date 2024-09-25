@@ -23,7 +23,7 @@
 
 <h2>Tech stack:</h2>
 
-<pstyle="display: flex; justify-content: center; align-items: center; height: 100vh;" >
+<p style="display: flex; justify-content: center; align-items: center; height: 100vh;" >
   <b>Languages</b>
   <br>
   <br>
