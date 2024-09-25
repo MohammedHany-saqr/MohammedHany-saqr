@@ -8,7 +8,7 @@
   <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
-<p align="center">
+<p  style="text-align: center;">
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
@@ -21,9 +21,9 @@
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<h2>Tech stack</h2>
+<h2>Tech stack:</h2>
 
-<p align="center">
+<p  style="text-align: center;">
   <b>Languages</b>
   <br>
   <br>
@@ -32,11 +32,9 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
 </p>
-
 <br>
 <br>
-
-<p align="center">
+<p  style="text-align: center;">
   <b>Frontend</b>
   <br>
   <br>
@@ -52,7 +50,7 @@
 <br>
 <br>
 
-<p align="center">
+<p  style="text-align: center;">
   <b>Backend</b>
   <br>
   <br>
@@ -63,7 +61,7 @@
 <br>
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
-<p align="center">
+<p  style="text-align: center;">
   <a href="https://www.facebook.com/" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
