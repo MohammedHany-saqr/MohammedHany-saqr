@@ -28,7 +28,7 @@
   <br>
   <br>
     <code><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="C++" height="40"/></code>
-    <code><img src="https://github.com/python/pythondotorg/tree/main/static/img/logos" alt="Python" height="40"/></code>
+    <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
 </p>
