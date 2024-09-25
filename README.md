@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1  style="text-align: center;">
+<h1  style="text-align: center">
   Hi, I'm Mohammed Hany - SoftWare Engineer <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
-<p  style="text-align: center;">
+<p  style="text-align: center">
   <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-<p  style="text-align: center;">
+<p  style="text-align: center">
   <b>Backend</b>
   <br>
   <br>
