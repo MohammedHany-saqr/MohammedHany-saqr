@@ -23,7 +23,7 @@
 
 <h2>Tech stack:</h2>
 
-<p align="center">
+<p align="right">
   <b>Languages</b>
   <br>
   <br>
