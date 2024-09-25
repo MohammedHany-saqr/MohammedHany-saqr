@@ -37,9 +37,7 @@
   <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
-  <a href="https://www.java.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
-  </a>
   <a href="https://go.dev" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
   </a>
